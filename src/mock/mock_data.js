@@ -482,5 +482,6 @@ export const mockData = {
     }
   ],
   "title": "✨Lucky Nav✨",
-  "_fileSha": "7598e7bc1d772753df0bd6be297d848a624905e2"
+  "_fileSha": "b1e6689ea8e2e52ef2682f0f0d8c55ffcac593c2",
+  "search": "google"
 }
