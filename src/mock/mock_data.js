@@ -38,7 +38,7 @@ export const mockData = {
     },
     {
       "id": "ai-tools",
-      "name": "AI智能",
+      "name": "AI",
       "icon": "🤖",
       "order": 1,
       "sites": [
