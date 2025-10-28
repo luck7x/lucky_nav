@@ -366,7 +366,7 @@ export const mockData = {
       ]
     }
   ],
-  "title": "猫猫导航🐱",
-  "_fileSha": "169066dc1b9563495a5f04c6603dcfb8acfe8669",
+  "title": "✨Lucky Nav✨",
+  "_fileSha": "f46ffe5fecc3c384966918c4e9856476a6549a40",
   "search": "google"
 }
