@@ -478,6 +478,13 @@ export const mockData = {
       "order": 9,
       "sites": [
         {
+          "id": "site-1762007280953",
+          "name": "ikuncode",
+          "url": "https://api.ikuncode.cc/console",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/api.ikuncode.cc"
+        },
+        {
           "id": "site-1761639595797",
           "name": "88code",
           "url": "https://www.88code.org",
@@ -643,7 +650,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "✨Lucky Nav✨",
-  "_fileSha": "c986c22a33dfeefe826035b3a2106ea8784d4e2e",
-  "search": "google"
+  "title": "✨Lucky Nav✨"
 }
