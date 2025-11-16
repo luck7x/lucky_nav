@@ -384,6 +384,13 @@ export const mockData = {
           "icon": "/sitelogo/vercel.com.ico"
         },
         {
+          "id": "site-1763293144737",
+          "name": "jsrun",
+          "url": "https://jsrun.net",
+          "description": "代码在线运行托管",
+          "icon": "https://www.faviconextractor.com/favicon/jsrun.net"
+        },
+        {
           "id": "aws",
           "name": "AWS",
           "url": "https://aws.amazon.com",
@@ -664,7 +671,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "✨Lucky Nav✨",
-  "_fileSha": "aee5befd21a19e163754917cf2d308defd39efe6",
-  "search": "google"
+  "title": "✨Lucky Nav✨"
 }
