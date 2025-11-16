@@ -414,10 +414,46 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1763293272894",
+      "icon": "☁️",
+      "name": "VPS",
+      "order": 7,
+      "sites": [
+        {
+          "id": "site-1763293373391",
+          "name": "zeabur",
+          "url": "https://zeabur.com/",
+          "description": "服务托管-5💵/month",
+          "icon": "https://www.faviconextractor.com/favicon/zeabur.com"
+        },
+        {
+          "id": "site-1763293448711",
+          "name": "leaflow",
+          "url": "https://leaflow.net",
+          "description": "docker托管-自动签到领余额-大陆机+香港",
+          "icon": "https://www.faviconextractor.com/favicon/leaflow.net"
+        },
+        {
+          "id": "site-1763293523509",
+          "name": "爪云",
+          "url": "https://ap-southeast-1.run.claw.cloud",
+          "description": "docker托管-github-5💵/month",
+          "icon": "https://www.faviconextractor.com/favicon/ap-southeast-1.run.claw.cloud"
+        },
+        {
+          "id": "site-1763293637465",
+          "name": "SAP",
+          "url": "https://emea.cockpit.btp.cloud.sap/cockpit/#/globalaccount",
+          "description": "docker托管-企业账户",
+          "icon": "https://www.faviconextractor.com/favicon/emea.cockpit.btp.cloud.sap"
+        }
+      ]
+    },
+    {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "figma",
@@ -453,7 +489,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "mdn",
@@ -489,7 +525,7 @@ export const mockData = {
       "id": "category-1761639562718",
       "icon": "💼",
       "name": "AI Code",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "site-1762007280953",
@@ -532,7 +568,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "site-1761708057783",
@@ -575,7 +611,7 @@ export const mockData = {
       "id": "category-1761642957333",
       "icon": "📮",
       "name": "邮箱",
-      "order": 0,
+      "order": 12,
       "sites": [
         {
           "id": "site-1761643300990",
