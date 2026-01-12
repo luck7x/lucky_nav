@@ -16,7 +16,7 @@ export const mockData = {
         {
           "id": "site-1761639912700",
           "name": "misub",
-          "url": "https://luckyjh.ynna.xx.kg",
+          "url": "https://luckyjh.ynna.xx.kg/luckypannel",
           "description": "",
           "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJGq24W5kCjqRsYWdFoC8TZtJprSyA56hrcw&s"
         },
@@ -707,7 +707,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "✨Lucky Nav✨",
-  "_fileSha": "2bc4bff9aef6c15658c4d095f4da2416efbb550f",
-  "search": "google"
+  "title": "✨Lucky Nav✨"
 }
